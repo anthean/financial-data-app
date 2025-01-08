@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anthean/financial-data-app.git/static/css/main.cd358abd.css",
-    "main.js": "/anthean/financial-data-app.git/static/js/main.83ba9b5d.js",
-    "static/js/453.957b7cd4.chunk.js": "/anthean/financial-data-app.git/static/js/453.957b7cd4.chunk.js",
-    "index.html": "/anthean/financial-data-app.git/index.html",
-    "main.cd358abd.css.map": "/anthean/financial-data-app.git/static/css/main.cd358abd.css.map",
-    "main.83ba9b5d.js.map": "/anthean/financial-data-app.git/static/js/main.83ba9b5d.js.map",
-    "453.957b7cd4.chunk.js.map": "/anthean/financial-data-app.git/static/js/453.957b7cd4.chunk.js.map"
+    "main.css": "/financial-data-app/static/css/main.cd358abd.css",
+    "main.js": "/financial-data-app/static/js/main.149d6b7d.js",
+    "static/js/453.957b7cd4.chunk.js": "/financial-data-app/static/js/453.957b7cd4.chunk.js",
+    "index.html": "/financial-data-app/index.html",
+    "main.cd358abd.css.map": "/financial-data-app/static/css/main.cd358abd.css.map",
+    "main.149d6b7d.js.map": "/financial-data-app/static/js/main.149d6b7d.js.map",
+    "453.957b7cd4.chunk.js.map": "/financial-data-app/static/js/453.957b7cd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd358abd.css",
-    "static/js/main.83ba9b5d.js"
+    "static/js/main.149d6b7d.js"
   ]
 }
