@@ -16,7 +16,7 @@ function App() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const apiKey = process.env.REACT_APP_API_KEY; // Fetch API key from .env
+      const apiKey = "f3C9F0OilsMWoLGSjXACfJRSbbD5rrXp";
       const url = `https://financialmodelingprep.com/api/v3/income-statement/AAPL?period=annual&apikey=${apiKey}`; // API endpoint
       try {
         const response = await axios.get(url); // Fetch data
